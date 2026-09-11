@@ -1,0 +1,32 @@
+{
+    "model": "stateMachine",
+    "system": "stateMachine",
+    "modelPath": "../../models/HybridFSM/Hybrid-controller/Controller",
+
+    "testMode": "SimulinkTest",
+    "testFile": "models/HybridFSM/Hybrid-controller/Test/FSM Test/FSM_test.mldatx",
+    "signalBuilder": "",
+    "stopTime": 10,
+
+    "debugMode": false,
+
+    "operators": {},
+
+    "exclude_paths": [],
+
+    "timeout": 600,
+
+    "requirements_file": "",
+
+    "output_path": "",
+
+    "parallel": false,
+
+    "sampling": {
+        "enabled": false
+    },
+
+    "testSampling": {
+        "enabled": false
+    }
+}

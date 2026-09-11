@@ -1,0 +1,22 @@
+{
+    "model": "CruiseControl_TestSuite",
+    "system": "CruiseControl_TestSuite",
+    "modelPath": "../../models/CruiseControl/Models",
+
+    "testMode": "SimulinkTest",
+    "testFile": "models/CruiseControl/Tests/CruiseControl_TestSuite.mldatx",
+    "signalBuilder": "",
+    "stopTime": 10,
+
+    "debugMode": false,
+
+    "operators": {},
+
+    "exclude_paths": [],
+
+    "timeout": 300,
+
+    "requirements_file": "",
+
+    "output_path": ""
+}

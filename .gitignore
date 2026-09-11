@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# MATLAB / Simulink editor and autosave artifacts
+*.asv
+*.autosave
+*~
+
+# Simulink caches and generated folders
+*.slxc
+slprj/
+codegen/
