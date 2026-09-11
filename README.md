@@ -137,7 +137,6 @@ MathWorks materials are not covered by the GNU GPL v3.0 license of this
 reproduction package and remain subject to MathWorks' applicable copyright
 and usage terms.
 
-**MUT4SLX.** The mutation tool is not included in this package and remains
-available separately under its own license.
+**MUT4SLX.** MUT4SLX. The mutation tool is not included in this package. It is available separately under the GNU General Public License v3.0 at https://github.com/haliliceylan/MUT4SLX.
 
 See `licenses/` for the third-party notices collected in one place.
